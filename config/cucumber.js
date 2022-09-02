@@ -1,7 +1,7 @@
 const common = {
   parallel: 2,
   format: ['progress-bar', 'cucumber-console-formatter', 'json:./reports/json/cucumber-report.json', 'html:./reports/html/cucumber-report.html'],
-  paths: ['./features/*.feature'],
+  paths: ['./src/features/*.feature'],
   require: ['./src/steps/*steps.js'],
   publishQuiet: true,
   // worldParameters: {

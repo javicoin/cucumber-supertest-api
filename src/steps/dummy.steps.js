@@ -13,7 +13,7 @@ const baseUrl = 'http://localhost:3000';
 
 let response;
 
-When('GET tokens', async function() {
+When(/^GET tokens$/, async function() {
   response = await request(baseUrl)
   .get("/tokens")
   .expect(200);
@@ -21,10 +21,10 @@ When('GET tokens', async function() {
   //expect(response.body.name).toContain("Dollar on Chain");
 });
 
-Then('200 OK response', function() {
+Then(/^200 OK response$/, () => {
     expect(response.status).toBe(200);
 });
 
-Then('error response', function() {
+Then(/^error response$/, () => {
     expect(response.status).toBe(100);
 });
