@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cucumber-js --config config/cucumber.js",
-    "test_all": "cucumber-js --config config/cucumber.js --tags \"@smoke or @regression\"",
+    "test_all": "cucumber-js --config config/cucumber.js --tags \"@smoke and @regression\"",
     "smoke": "cucumber-js --config config/cucumber.js -p smoke",
     "regression": "cucumber-js --config config/cucumber.js -p regression",
     "eslint": "eslint ."

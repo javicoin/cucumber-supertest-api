@@ -8,17 +8,16 @@ const expect = require('expect');
 // const {expect} = require('@jest/expect');
 // require('jest-extended') - extra config needed
 const Ajv = require("ajv")
-const ajv = new Ajv() 
+const schemaValidator = new Ajv() 
 
-const baseUrl = 'http://localhost:3000';
+const API_URL = require("../../config/cucumber").default.environment.API_URL;
 const schema = require("../endpoints/tokens/schema")
-// const data = require("../endpoints/tokens/tokens.data.json")
+const mockedResponse = require("../endpoints/tokens/tokens.data.json")
+
 let response;
 
 When(/^GET tokens$/, async function() {
-  response = await request(baseUrl)
-  .get("/tokens")
-  .expect(200);
+  response = await request(API_URL).get("/tokens");
 });
 
 Then(/^200 OK response$/, () => {
@@ -30,10 +29,16 @@ Then(/^error response$/, () => {
 
 });
 
-Then(/^schema validation$/, () => {
-  const validate = ajv.compile(schema);
-  // const valid = validate(data);
+Then(/^response schema validation$/, () => {
+  const validate = schemaValidator.compile(schema);
   const valid = validate(response.body);
+  if (!valid) console.log(validate.errors);
+  expect(valid).toBeTruthy();
+});
+
+Then(/^mocked response schema validation$/, () => {
+  const validate = schemaValidator.compile(schema);
+   const valid = validate(mockedResponse);
   if (!valid) console.log(validate.errors);
   expect(valid).toBeTruthy();
 });

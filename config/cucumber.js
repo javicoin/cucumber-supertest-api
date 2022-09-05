@@ -4,9 +4,9 @@ const common = {
   paths: ['./src/features/*.feature'],
   require: ['./src/steps/*steps.js'],
   publishQuiet: true,
-  // worldParameters: {
-  //   appUrl: process.env.MY_APP_URL || 'http://localhost:3000/'
-  // }
+  environment: {
+    API_URL: 'http://localhost:3000'
+  }
 }
 
 module.exports = {
@@ -19,6 +19,6 @@ module.exports = {
   },
   regression: {
     ...common,
-    tags: "@regression",
+    tags: "@regression and not @smoke",
   }
 };

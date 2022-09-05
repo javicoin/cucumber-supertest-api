@@ -42,12 +42,6 @@
         "decimals": 18
     },
     {
-        "name": "",
-        "symbol": "",
-        "contractAddress": "0x101d2543ef81e4c67fb91b69672d2ec57b998765",
-        "decimals": 0
-    },
-    {
         "name": "tRIF Token",
         "symbol": "tRIF",
         "contractAddress": "0x19f64674d8a5b4e652319f5e239efd3bc969a1fe",
@@ -118,18 +112,6 @@
         "symbol": "DOC",
         "contractAddress": "0xec9631a5020be708172890f2854a8976307043e4",
         "decimals": 18
-    },
-    {
-        "name": "",
-        "symbol": "",
-        "contractAddress": "0xca27bc90c76fc582406fbc4665832753f74a75f5",
-        "decimals": 0
-    },
-    {
-        "name": "",
-        "symbol": "",
-        "contractAddress": "0x48f96e4e8adb8db5b70538b58dade4a89e2f9df0",
-        "decimals": 0
     },
     {
         "name": "Wrapped Ether",
@@ -226,12 +208,6 @@
         "symbol": "WRBTC",
         "contractAddress": "0x90cba526cfd9a9b261352eec876619615b56f0de",
         "decimals": 18
-    },
-    {
-        "name": "",
-        "symbol": "",
-        "contractAddress": "0x419ba421d62b662177c29fa010af0d8a7839cff6",
-        "decimals": 0
     },
     {
         "name": "DAI",

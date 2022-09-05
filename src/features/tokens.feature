@@ -13,4 +13,9 @@ Scenario: error response
 @regression
 Scenario: schema validation
     When GET tokens
-    Then schema validation
+    Then response schema validation
+
+@regression
+Scenario: schema validation
+    When GET tokens
+    Then mocked response schema validation
