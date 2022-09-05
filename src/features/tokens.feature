@@ -5,7 +5,12 @@ Scenario: GET request - 200 OK
     When GET tokens
     Then 200 OK response
 
-@regression
+@smoke
 Scenario: error response
     When GET tokens
     Then error response
+
+@regression
+Scenario: schema validation
+    When GET tokens
+    Then schema validation

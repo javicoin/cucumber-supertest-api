@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javicoin/cucumber-jest-api.git"
+    "url": "git+https://github.com/javicoin/cucumber-supertest-api.git"
   },
   "author": "javicoin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/javicoin/cucumber-jest-api/issues"
+    "url": "https://github.com/javicoin/cucumber-supertest-api/issues"
   },
-  "homepage": "https://github.com/javicoin/cucumber-jest-api#readme",
+  "homepage": "https://github.com/javicoin/cucumber-supertest-api#readme",
   "devDependencies": {
     "cucumber-html-reporter": "^5.5.0",
     "eslint": "^8.23.0",
@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@cucumber/cucumber": "^8.5.2",
+    "ajv": "^8.11.0",
     "cucumber-console-formatter": "^1.0.0",
     "expect": "26.6.2"
   }

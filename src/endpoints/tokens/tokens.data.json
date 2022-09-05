@@ -1,0 +1,290 @@
+[
+    {
+        "name": "rKovLINK",
+        "symbol": "rKovLINK",
+        "contractAddress": "0x8bbbd80981fe76d44854d8df305e8985c19f0e78",
+        "decimals": 18
+    },
+    {
+        "name": "TESTMOC",
+        "symbol": "TMOC",
+        "contractAddress": "0xd5d5a5349a7380558273de960469447c63feba4e",
+        "decimals": 18
+    },
+    {
+        "name": "Dollar on Chain",
+        "symbol": "DOC",
+        "contractAddress": "0xb2d705097d9f80d47289efb2a25bc78fee9d3e80",
+        "decimals": 18
+    },
+    {
+        "name": "BITPRO",
+        "symbol": "BITPRO",
+        "contractAddress": "0x1135f7adf0bb629a4205981dded7e87627339079",
+        "decimals": 18
+    },
+    {
+        "name": "Dollar on Chain",
+        "symbol": "DOC",
+        "contractAddress": "0x54c598fa101b6dfab4ee130e11fd0a05c646802d",
+        "decimals": 18
+    },
+    {
+        "name": "RBTC",
+        "symbol": "RBTC",
+        "contractAddress": "0xe53d858a78d884659bf6955ea43cba67c0ae293f",
+        "decimals": 18
+    },
+    {
+        "name": "SUSD",
+        "symbol": "SUSD",
+        "contractAddress": "0xe631653c4dc6fb98192b950ba0b598f90fa18b3e",
+        "decimals": 18
+    },
+    {
+        "name": "",
+        "symbol": "",
+        "contractAddress": "0x101d2543ef81e4c67fb91b69672d2ec57b998765",
+        "decimals": 0
+    },
+    {
+        "name": "tRIF Token",
+        "symbol": "tRIF",
+        "contractAddress": "0x19f64674d8a5b4e652319f5e239efd3bc969a1fe",
+        "decimals": 18
+    },
+    {
+        "name": "Dollar on Chain",
+        "symbol": "DOC",
+        "contractAddress": "0xcb46c0ddc60d18efeb0e586c17af6ea36452dae0",
+        "decimals": 18
+    },
+    {
+        "name": "Peso Coin",
+        "symbol": "ARSCOIN",
+        "contractAddress": "0xbb3b8253126963c17be1f5858a85827c64cd0a01",
+        "decimals": 8
+    },
+    {
+        "name": "BITPRO",
+        "symbol": "BITPRO",
+        "contractAddress": "0x4da7997a819bb46b6758b9102234c289dd2ad3bf",
+        "decimals": 18
+    },
+    {
+        "name": "BITPRO",
+        "symbol": "BITPRO",
+        "contractAddress": "0x5c67868399af25c9a31c2ce047d68b34162c9e14",
+        "decimals": 18
+    },
+    {
+        "name": "RIF Dollar on Chain",
+        "symbol": "RDOC",
+        "contractAddress": "0x7fb303d9806a72563c46aad8d874b301419c374b",
+        "decimals": 18
+    },
+    {
+        "name": "Wrapped RSK Bitcoin",
+        "symbol": "WRBTC",
+        "contractAddress": "0xa274d994f698dd09256674960d86aba22c086669",
+        "decimals": 18
+    },
+    {
+        "name": "rDOC",
+        "symbol": "rDOC",
+        "contractAddress": "0xc3de9f38581f83e281f260d0ddbaac0e102ff9f8",
+        "decimals": 18
+    },
+    {
+        "name": "Test Dollar on Chain",
+        "symbol": "TDOC",
+        "contractAddress": "0xa998b9a4842754314ecc791b0ba5e9bb334cb108",
+        "decimals": 15
+    },
+    {
+        "name": "Argentinos Juniors Coin",
+        "symbol": "ARGJ",
+        "contractAddress": "0x4626f072c42afed36d7aad7f2ab9fa9e16bdb72a",
+        "decimals": 18
+    },
+    {
+        "name": "BITPRO",
+        "symbol": "BITPRO",
+        "contractAddress": "0x6afb8ea47a315199b7bd0b72c3ccc9178f8dd5be",
+        "decimals": 18
+    },
+    {
+        "name": "Dollar on Chain",
+        "symbol": "DOC",
+        "contractAddress": "0xec9631a5020be708172890f2854a8976307043e4",
+        "decimals": 18
+    },
+    {
+        "name": "",
+        "symbol": "",
+        "contractAddress": "0xca27bc90c76fc582406fbc4665832753f74a75f5",
+        "decimals": 0
+    },
+    {
+        "name": "",
+        "symbol": "",
+        "contractAddress": "0x48f96e4e8adb8db5b70538b58dade4a89e2f9df0",
+        "decimals": 0
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "contractAddress": "0xc90bb9feee164263709336c7e5e9f8e540fa3c6d",
+        "decimals": 18
+    },
+    {
+        "name": "SUSD",
+        "symbol": "SUSD",
+        "contractAddress": "0xccc6db80f45d127d709cb942cc366e6246ce343a",
+        "decimals": 18
+    },
+    {
+        "name": "RBTC",
+        "symbol": "RBTC",
+        "contractAddress": "0x8125b5811005246421fe3c4f08e61f6820b2532a",
+        "decimals": 18
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "contractAddress": "0xacc0b2248f9073f31841e894d4251d3011036476",
+        "decimals": 18
+    },
+    {
+        "name": "SUSD",
+        "symbol": "SUSD",
+        "contractAddress": "0x18f0d557915ab181f54531dd06629c401b54b28a",
+        "decimals": 18
+    },
+    {
+        "name": "RBTC",
+        "symbol": "RBTC",
+        "contractAddress": "0xe69d0179cdfab4bac21b2db2ba30bbd422ed948a",
+        "decimals": 18
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "contractAddress": "0x4d668ea0f78683d69a1ab96211981e8eaa83eca4",
+        "decimals": 18
+    },
+    {
+        "name": "RIFPro",
+        "symbol": "RIFP",
+        "contractAddress": "0xf947fe5190d33d812f74b4eea31509d9d94f149e",
+        "decimals": 18
+    },
+    {
+        "name": "DAI",
+        "symbol": "DAI",
+        "contractAddress": "0x48f7b0e6f3994ae486a86f03bebbea8ae5d3b2f5",
+        "decimals": 18
+    },
+    {
+        "name": "LINK",
+        "symbol": "LINK",
+        "contractAddress": "0xac50fe1a1b3e7d4f5f8f1eec1ded16c856efd3e8",
+        "decimals": 18
+    },
+    {
+        "name": "Simon Bucks",
+        "symbol": "SBX",
+        "contractAddress": "0x999258c5eecdcd70412f93d4eeeb9630cb81449a",
+        "decimals": 1
+    },
+    {
+        "name": "USD p6",
+        "symbol": "USD6",
+        "contractAddress": "0xb9f624160bb2755aa25366cc307ed27e39a4f296",
+        "decimals": 6
+    },
+    {
+        "name": "USD p18",
+        "symbol": "USD18",
+        "contractAddress": "0xb3a4a821434bdfbe55872c240d3888c412c68b9b",
+        "decimals": 18
+    },
+    {
+        "name": "Marquez Coin",
+        "symbol": "MRC",
+        "contractAddress": "0x504d51c5f3e8643ae153c296221f94412493a8ef",
+        "decimals": 2
+    },
+    {
+        "name": "Marquez Coin",
+        "symbol": "MRC",
+        "contractAddress": "0xd8ffe55eb525cf1bfcdf4c9a4923c168faf5a33a",
+        "decimals": 18
+    },
+    {
+        "name": "Wrapped RSK Bitcoin",
+        "symbol": "WRBTC",
+        "contractAddress": "0x90cba526cfd9a9b261352eec876619615b56f0de",
+        "decimals": 18
+    },
+    {
+        "name": "",
+        "symbol": "",
+        "contractAddress": "0x419ba421d62b662177c29fa010af0d8a7839cff6",
+        "decimals": 0
+    },
+    {
+        "name": "DAI",
+        "symbol": "DAI",
+        "contractAddress": "0xf685540fed86f9358015363d492074ed3a2e161f",
+        "decimals": 18
+    },
+    {
+        "name": "LINK",
+        "symbol": "LINK",
+        "contractAddress": "0x1a65d92c1feabcca8d091510a225652bf9665796",
+        "decimals": 18
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "contractAddress": "0xfa2e0d30d4646bfc6ec9a270e8758bcc2ec1cd1f",
+        "decimals": 18
+    },
+    {
+        "name": "LINK",
+        "symbol": "LINK",
+        "contractAddress": "0xb0b7f715083ce440f6ff0dca3e2c2ff4d5c1852a",
+        "decimals": 18
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "contractAddress": "0xa51394f8f4811196907719cc4420225d511ccb77",
+        "decimals": 18
+    },
+    {
+        "name": "DAI",
+        "symbol": "DAI",
+        "contractAddress": "0x84c5dbe948051e0177c1d187d8a6115ad4de27e9",
+        "decimals": 18
+    },
+    {
+        "name": "Uniswap V2",
+        "symbol": "UNI-V2",
+        "contractAddress": "0x9762c833627bc00f7a32132a9749478c3e4288ae",
+        "decimals": 18
+    },
+    {
+        "name": "Wrapped RBTC",
+        "symbol": "WRBTC",
+        "contractAddress": "0x09b6ca5e4496238a1f176aea6bb607db96c2286e",
+        "decimals": 18
+    },
+    {
+        "name": "rKovUSDC",
+        "symbol": "rKovUSDC",
+        "contractAddress": "0x6117c9529f15c52e2d3188d5285c745b757b5825",
+        "decimals": 18
+    }
+]
