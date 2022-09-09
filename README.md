@@ -8,7 +8,6 @@ BDD API test automation using Cucumber & Supertest API library
 - Supertest
 - Node version 16, execute `npm install -g node@16.15.1`
 - NPM version 6, execute `npm -g install npm@6`
-- JAVA JDK 11, execute `brew tap homebrew/cask-versions` and `brew install --cask zulu11`
 
 ## Supports
 
