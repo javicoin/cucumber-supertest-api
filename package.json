@@ -8,6 +8,7 @@
     "test_all": "cucumber-js --config config/cucumber.js --tags \"@smoke and @regression\"",
     "smoke": "cucumber-js --config config/cucumber.js -p smoke",
     "regression": "cucumber-js --config config/cucumber.js -p regression",
+    "report": "node index.js",
     "eslint": "eslint ."
   },
   "repository": {
